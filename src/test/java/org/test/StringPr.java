@@ -46,7 +46,7 @@ public class StringPr {
 			
 		}*/
 
-		System.out.println("     ");
+		System.out.println("  Find way to enter next line in Java   ");
 		Map<Character, Integer> mp = new Hashtable<Character, Integer>();
 
 		for (char c : charArray) {
