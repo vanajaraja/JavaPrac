@@ -187,6 +187,8 @@ public class StringPr {
 		String string2 = li.toString();
 
 		System.out.println(string2);
+		
+		System.out.println(string2);
 
 		boolean startsWith = string2.startsWith("[");
 		System.out.println(startsWith);
